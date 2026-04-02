@@ -1,0 +1,17 @@
+# Ignorar el CONTENIDO de las carpetas de datos (usando el asterisco)
+data/raw/*
+data/processed/*
+data/test/*
+data/extra/*
+
+# Forzar a Git a que SÍ lea los .gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/test/.gitkeep
+!data/extra/.gitkeep
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
