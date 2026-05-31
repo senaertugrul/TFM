@@ -16,3 +16,9 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .venv/
+
+# Ignorar modelos serializados dentro de la nueva ruta
+data/processed/models/*
+!data/processed/models/.gitkeep
+*.pkl
+*.json
