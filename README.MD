@@ -146,9 +146,9 @@ Para garantizar la reproducibilidad del experimento:
 
 Trabajo Fin de Máster desarrollado por:
 
-- Luis Fernando Puentes Rodríguez
-- Luis XXXXXXX
-- XXXXX XXXXX
+- Sena Ertugrul
+- Luis Fernando Puentes
+- Ronaldo Barrios
 
 Máster en Big Data & Analytics
 
